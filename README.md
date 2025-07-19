@@ -134,7 +134,7 @@ pip freeze > requirements.txt
 **Satheeshkumar T.**  
 B.Tech – Artificial Intelligence & Data Science  
 Sona College of Technology, Salem  
-📧 [satheeshkumar9423@gmail.com](mailto:satheeshkumar9423@gmail.com)  
+📧 [satheeshkumart2003@gmail.com](mailto:satheeshkumart2003@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile)
 
 ---
